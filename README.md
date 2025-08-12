@@ -18,9 +18,9 @@ A simple and beautiful **Java Swing To-Do List** application with a **modern GUI
 ## Output Screenshots
 > 
 
-![Main UI](images/MainUI.png)
-![Edit task](images/Editt.png)
-![Delete Task](images/Delete.png)
+![Main UI](MainUI.png)
+![Edit task](Edit.png)
+![Delete Task](Delete.png)
 
 
 
